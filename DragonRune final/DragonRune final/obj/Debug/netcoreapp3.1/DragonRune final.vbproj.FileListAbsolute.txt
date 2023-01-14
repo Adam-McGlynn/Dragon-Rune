@@ -1,0 +1,13 @@
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\bin\Debug\netcoreapp3.1\DragonRune final.exe
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\bin\Debug\netcoreapp3.1\DragonRune final.deps.json
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\bin\Debug\netcoreapp3.1\DragonRune final.runtimeconfig.json
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\bin\Debug\netcoreapp3.1\DragonRune final.runtimeconfig.dev.json
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\bin\Debug\netcoreapp3.1\DragonRune final.dll
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\bin\Debug\netcoreapp3.1\DragonRune final.pdb
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\obj\Debug\netcoreapp3.1\DragonRune final.vbprojAssemblyReference.cache
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\obj\Debug\netcoreapp3.1\DragonRune final.AssemblyInfoInputs.cache
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\obj\Debug\netcoreapp3.1\DragonRune final.AssemblyInfo.vb
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\obj\Debug\netcoreapp3.1\DragonRune final.vbproj.CoreCompileInputs.cache
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\obj\Debug\netcoreapp3.1\DragonRune final.dll
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\obj\Debug\netcoreapp3.1\DragonRune final.pdb
+C:\Users\Adam McGlynn\Documents\College\Computer Science\Coursework\DragonRune final\DragonRune final\obj\Debug\netcoreapp3.1\DragonRune final.genruntimeconfig.cache
